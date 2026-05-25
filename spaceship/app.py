@@ -26,3 +26,5 @@ def make_app(settings: Settings) -> FastAPI:
         return 'build/index.html'
 
     return app
+# Зміни для лабораторної роботи 2
+# якийсь коментар
